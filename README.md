@@ -1,3 +1,3 @@
 # openspace-squad-sandbox
 
-Throwaway repo for a live Coding Openspace squad run on staging.
+Throwaway repo for Coding Openspace squad validation.
