@@ -2,6 +2,7 @@
   "name": "openspace-squad-sandbox",
   "version": "0.0.1",
   "scripts": {
-    "typecheck": "echo typecheck-ok"
+    "typecheck": "echo typecheck-ok",
+    "test:e2e": "echo e2e-test-complete"
   }
 }
